@@ -4,3 +4,4 @@
 /artist_portfolio/env
 /venv/
 /.env
+/staticfiles/
